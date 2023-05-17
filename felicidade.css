@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.exemplo-back{
+    background-image: url(https://i.pinimg.com/originals/81/e2/55/81e255e0ceeca98084787662c4f7814c.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+}
+.fotita{
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.hh1{
+    text-align: center;
+    color: yellow;
+    font-size: 60px;
+}
+.hh2{
+    text-align: center;
+    color: yellow;
+    font-size: 60px;
+}
